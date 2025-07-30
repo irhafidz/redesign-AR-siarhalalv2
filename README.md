@@ -1,7 +1,7 @@
 
 
 # redesign-AR-siarhalalv2
-The Github repos for our research paper Redesign UI AR SIARHALAL v2.
+The Github repos for our research paper Redesign UI AR SIARHALAL v2. SIARHALAL v1 is available at https://github.com/irhafidz/siarhalal
 
 Redesigning SIAR Halal: A Gamified Augmented Reality UI/UX Prototype
 
