@@ -37,7 +37,7 @@ This project followed a **Design Thinking** framework:
 You can find data and designs in the corresponding folders:
 - [`/stage-empathize`](./stage-empathize)
 - [`/stage-prototype`](./stage-prototype)
-- [`/stage-test`](./stage-test)
+- [`/stage-testing`](./stage-testing)
 
 ---
 
