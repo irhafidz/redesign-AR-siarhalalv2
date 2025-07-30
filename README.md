@@ -7,7 +7,7 @@ Redesigning SIAR Halal: A Gamified Augmented Reality UI/UX Prototype
 
 This project presents a redesign of the SIAR Halal application — a mobile web-based platform aimed at helping users discover **Halal-certified food establishments in Surabaya**. By integrating **Augmented Reality (AR)** and **gamification**, the redesigned prototype enhances user engagement and usability through a **Design Thinking** process.
 
-> 📄 **Submission**:  
+> 📄 **Submission pages for JIMF**: https://jimf-bi.org/JIMF   
 > Wicaksono, A. N., Hafidz, I., & Rakhmawati, N. A. (2022). *Redesigning SIAR Halal: A Gamified Augmented Reality UI/UX Prototype for Halal Establishment Discovery in Surabaya Using Design Thinking*. Journal of Islamic Monetary Economics and Finance, 8(x), 1–20.
 
 ---
