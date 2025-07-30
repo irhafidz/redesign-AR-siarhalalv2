@@ -62,20 +62,3 @@ You can find data and designs in the corresponding folders:
 | Cronbach's Alpha (Reliability) | 0.60 (Valid) |
 
 ---
-
-## 📚 Citation
-
-If you use this work or data, please cite the following:
-
-```bibtex
-@article{wicaksono2022redesigning,
-  title={Redesigning SIAR Halal: A Gamified Augmented Reality UI/UX Prototype for Halal Establishment Discovery in Surabaya Using Design Thinking},
-  author={Wicaksono, Akhmad Nabiel and Hafidz, Irmasari and Rakhmawati, Nur Aini},
-  journal={Journal of Islamic Monetary Economics and Finance},
-  volume={8},
-  number={x},
-  pages={1--20},
-  year={2022},
-  publisher={Bank Indonesia},
-  doi={10.21098/jimf.v8nX.2022.xxx}
-}
